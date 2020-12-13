@@ -1,6 +1,6 @@
 # **Comparing-the-Trending-Search-Engines**
 
-## **Broswer Wars(1995) :**
+## **Browser Wars(1995) :**
 
 ### **In the mid 1990s, the First Browser War began with Netscape Navigator and Microsoft Internet Explorer fighting for dominance. By 2001, Internet Explorer was the clear winner, but it was not long before the Second Browser Wars began (2004-2017). This coincided with the rise of smartphones, which emphasized the need and competitiveness for more mobile-friendly versions of browsers.**
 
